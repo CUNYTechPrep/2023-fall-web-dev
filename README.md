@@ -4,7 +4,7 @@
 
 ---
 
-# Fall 2023 Web Dev Track<br />_Class Schedule and Materials_
+# Fall 2023 Web Dev Track
 
 <!-- ## Summer/Winter Prep Work
 

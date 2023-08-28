@@ -1,15 +1,10 @@
-**_CUNY Tech Prep 2022-2023_**
+# Fall 2023 Web Dev Track <br />_Class Schedule and Materials_
 
-[CUNY Tech Prep](https://cunytechprep.org/) is a [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/) program designed to provide exceptional Computer Science students in the [CUNY](https://www.cuny.edu/) senior college system with in-demand software development and professional skills.
+Friday 12:30-3pm Section
 
----
+## (9/1) Week 1
 
-# Fall 2022 Web Dev Track <br />_Class Schedule and Materials_
-
-
-## (8/26) Week 1
-
-Lecture Slides (_coming soon_)
+Slides Week 1: Welcome, Project Ideation, Bootstrap
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
@@ -24,23 +19,22 @@ Assignments:
 
 
 - **Project Ideation**: provide your idea in the ideation document
-    + *If you did not finish this in class finish it before Week 2*
+    + *If you did not finish this in class finish it immediately after class*
+    + Ideation slides are bookmarked in your Slack channel
 - Meet your classmates and **form teams**
     + Read through your classmates ideas and contact them over slack
-    + Formed teams due in Week 3 class
+    + Formed teams due in Week 2 class
+- Complete and submit the Boostrap Lab by Week 2
 
-## (9/2) NO CLASS
 
-
-## (9/9) Week 2
+## (9/8) Week 2
 
 Topics:
 
 - React Intro
 
 
-
-## (9/16) Week 3
+## (9/15) Week 3
 
 
 Topics:
@@ -52,15 +46,13 @@ Topics:
 - More React
 
 
-## (9/23) Week 4
+## (9/22) Week 4
 
 Topics:
 
 - More `fetch()` and React
 
-## (9/30) NO CLASS
-
-## (10/7) Week 5
+## (9/29) Week 5
 
 
 Topics:
@@ -74,33 +66,36 @@ Topics:
     + Body Parameters
 - RESTful Routing
 
-## (10/14) Week 6
+## (10/6) Week 6
 
 Topics:
 
 - SDLC (software development lifecycle)
-- MVC (_Models-Views-Controllers_) Project Structure
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
+- Design Documents
 
-## (10/21) Week 7
 
+## (10/13) NO CLASS
+
+## (10/20) Week 7
 
 Topics:
 
+- MVC (_Models-Views-Controllers_) Project Structure
 - Using MVC app structure
 - Project Starter setup and walkthrough
 
 
-## (10/28) Week 8
+## (10/27) Week 8
 
 
 Topics:
 
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
 - Using Sequelize.js
 - Testing (Jest)
 
-## (11/4) Week 9
+## (11/3) Week 9
 
 Topics:
 
@@ -109,7 +104,7 @@ Topics:
 - Sessions
 - Passport.js, Bcrypt
 
-## (11/11) Week 10
+## (11/10) Week 10
 
 
 Topics:
@@ -118,33 +113,33 @@ Topics:
 - Software Engineering Best Practices
 - [Resource link](http://web.mit.edu/6.005/www/fa16/classes/04-code-review/)
 
-## (11/18) Week 11
+## (11/17) Week 11
 
 
 Topics:
 
-- Deploying to ~Heroku~ ??
+- Deployment
 - _Lab Time: Work on Projects_
 
-## (11/25) NO CLASS
+## (11/24) NO CLASS
 
 ### Thanksgiving Break
 
 
-## (12/2) Week 12
+## (12/1) Week 12
 
 Topics:
 
 - _Lab Time: Work on Projects_
 
-## (12/9) Week 13
+## (12/8) Week 13
 
 Topics:
 
 - Practice Demo Night Pitches and Demos
 - _Lab Time: Work on Projects_
 
-## (12/14 - tentatively) DEMO NIGHT
+## (12/12 - tentatively) DEMO NIGHT
 
 ### Demo Night
 
