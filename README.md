@@ -13,3 +13,4 @@
 
 - [Tuesday 6:30-9pm Section](tuesday.md)
 - [Wednesday 6:30-9pm Section](wednesday.md)
+- [Friday 6:30-9pm Section](friday-evening.md)

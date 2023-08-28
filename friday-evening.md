@@ -1,12 +1,9 @@
 # Fall 2023 Web Dev Track <br />_Class Schedule and Materials_
 
-Friday 12:30-3pm Section
+Friday 6:30-9pm Section
 
 ## (9/1) Week 1
 
-Slides Week 1: Welcome, Project Ideation, Bootstrap
-
-[Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
 Topics:
 
