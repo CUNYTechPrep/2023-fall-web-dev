@@ -5,13 +5,12 @@ _**NOTE**: Slides will be posted after class._
 
 ## (9/1) Week 1 : Welcome, Project Ideation, & Bootstrap
 
-Prior To Class, Do The Following:
+Prior To Week 01, try to do the following:
 - Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
 - Download & Install Git
     - [Install Git on Mac OS X](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
     - [Install Git on Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
     - [Install Git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
-
 
 Topics:
 
