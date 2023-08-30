@@ -4,7 +4,7 @@ Tuesday 6:30-9pm Section
 
 ## (8/29) Week 1
 
-Slides Week 1: Welcome, Project Ideation, Bootstrap
+[Slides Week 1: Welcome, Project Ideation, Bootstrap](https://docs.google.com/presentation/d/1nbIS5Tmcctb_G_aMQ6ZzlhUA29SIWgzSD0z7zbA9Mbk/edit?usp=sharing)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
