@@ -23,9 +23,8 @@ Topics:
 
 Assignments:
 
-
 - **Project Ideation**: provide your idea in the ideation document
-    + *If you did not finish this in class finish it immediately after class*
+    + *If you did not finish this in class, finish it immediately after class*
     + Ideation slides are bookmarked in your Slack channel
 - Meet your classmates and **form teams**
     + Read through your classmates ideas and contact them over slack
