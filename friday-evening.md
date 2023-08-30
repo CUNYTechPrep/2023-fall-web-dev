@@ -1,8 +1,16 @@
 # Fall 2023 Web Dev Track <br />_Class Schedule and Materials_
 
 Friday 6:30-9pm Section
+_**NOTE**: Slides will be posted after class._
 
 ## (9/1) Week 1 : Welcome, Project Ideation, & Bootstrap
+
+Prior To Class, Do The Following:
+- Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
+- Download & Install Git
+    - [Install Git on Mac OS X](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
+    - [Install Git on Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
+    - [Install Git on Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 
 
 Topics:
