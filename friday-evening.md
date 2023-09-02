@@ -14,12 +14,11 @@ Prior To Week 01, try to do the following:
 
 Topics:
 
-- [Welcome & Semester Overview]()
-- [Making Applications]()
-- [Welcome & Semester Overview]()
-- [Review HTML & CSS]()
-- [Environment Check]()
-- [Take Home Lab]()
+- [Welcome & Semester Overview](https://docs.google.com/presentation/d/1p2ViVTMK-ISlmAnqQbL6bnvPAUyitXJD/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Making Applications](https://docs.google.com/presentation/d/1IJGYBBABEUh91Fwjf3d1hi2QnSDB9J5D/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Review HTML & CSS](https://docs.google.com/presentation/d/1OP9YI61xlxq5f2tXAntKr-gpPd742zKf/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Environment Check](https://docs.google.com/presentation/d/1BqmpnRFQ38ge5WCRWTZo5cM8JB_HDW9d/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Take Home Lab](https://docs.google.com/presentation/d/1mGgCZWFnBYfagEy624TpUYbab_aT8dSz/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
 
 Assignments:
 
