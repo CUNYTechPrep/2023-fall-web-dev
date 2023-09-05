@@ -33,6 +33,9 @@ Topics:
 
 - React Intro
 
+Assignments:
+
+- Teams should submit a [team project proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) by start of Week 3 class
 
 ## (9/12) Week 3
 
