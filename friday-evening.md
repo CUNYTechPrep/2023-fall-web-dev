@@ -31,11 +31,18 @@ Assignments:
 - Complete and submit the Boostrap Lab by Week 2
 
 
-## (9/8) Week 2: ...
+## (9/8) Week 2: React
+
+Prior To Week 02, do the following:
+- Submit Week 01's Take Home Lab -> [Here](https://forms.gle/1vwxnP1DCmC5KZtX7)
+- Review [HTML & CSS](https://docs.google.com/presentation/d/1OP9YI61xlxq5f2tXAntKr-gpPd742zKf/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- Finalize Team by created a Slack channel with each member of the team, the TA, and Instructor
 
 Topics:
 
-- ...
+- [Intro To React]()
+- [React Tutorial]()
+- [Lab: Learn React]()
 
 
 ## (9/15) Week 3: ...
