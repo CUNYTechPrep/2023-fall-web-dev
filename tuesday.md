@@ -29,6 +29,8 @@ Assignments:
 
 ## (9/5) Week 2
 
+[Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
+
 Topics:
 
 - React Intro
