@@ -31,9 +31,11 @@ Assignments:
 
 [Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
 
+[Learn React 1 lab](materials/learn-react-1.md)
+
 Topics:
 
-- React Intro
+- [React Intro (slides)](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
 
 Assignments:
 

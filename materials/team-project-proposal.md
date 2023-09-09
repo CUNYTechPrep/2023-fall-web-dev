@@ -30,6 +30,6 @@ _It should be **2 pages max**. You do not have to include mockups or data models
 
 ## Submit
 
-Submit your team proposal here: TBA
+Submit your team proposal here: https://forms.gle/uBkdCqEZjiavf2G38
 
 **Due:** Week 3
