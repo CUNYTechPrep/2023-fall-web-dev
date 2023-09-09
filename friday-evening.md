@@ -39,11 +39,22 @@ Prior To Week 02, do the following:
 - Finalize Team by created a Slack channel with each member of the team, the TA, and Instructor
 
 Topics:
+- [Team Formation](https://docs.google.com/presentation/d/1ggRWXdB5HMUteMTTR3gkSJRdKjCm6HCt/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Intro To React](https://docs.google.com/presentation/d/1bY37kUd1t6q40GPzCeqX8lDPsHbDXtc6/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [React Tutorial](https://docs.google.com/presentation/d/1Mozl6FiAcimzfRMZCveCztGEQzYRN-sJ/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393)
 
-- [Intro To React]()
-- [React Tutorial]()
-- [Lab: Learn React]()
+Assignments:
+- Complete and submit the [Boostrap Lab](https://docs.google.com/presentation/d/1mGgCZWFnBYfagEy624TpUYbab_aT8dSz/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true) by Tuesday. [Submit Here](https://docs.google.com/forms/d/19jmGHjUgDQCRMfSwzd4Mrfji7ZJQ9NqHIaSP_zRsE5M/edit)
+- Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. (Once done, ping Instructor and TA.)
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 03
 
+Recordings:
+- [Intro To React](https://drive.google.com/file/d/1NEYD9v2QT2AaN83Ez0i3LEWR0ErxXK0v/view?usp=sharing)
+- [React Tutorial](https://drive.google.com/file/d/1YKvpPRBbaT6CpHQtNBWDPBW9DetpOI5J/view?usp=sharing)
+- [React Tutorial Pt.2](https://drive.google.com/file/d/1lnJQ7fSeBOJ1FvpNKcA6nk1F-Pitokq_/view?usp=sharing)
+
+*If you have any questions from the recording, hold them until next class. I will do the tutorial for the live session.*
 
 ## (9/15) Week 3: ...
 
