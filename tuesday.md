@@ -29,10 +29,17 @@ Assignments:
 
 ## (9/5) Week 2
 
+[Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
+
+[Learn React 1 lab](materials/learn-react-1.md)
+
 Topics:
 
-- React Intro
+- [React Intro (slides)](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
 
+Assignments:
+
+- Teams should submit a [team project proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) by start of Week 3 class
 
 ## (9/12) Week 3
 
