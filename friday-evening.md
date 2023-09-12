@@ -58,10 +58,20 @@ Recordings:
 
 ## (9/15) Week 3: ...
 
+Prior To Week 03, do the following:
+- Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. 
+- If possible, watch [Intro To React](https://drive.google.com/file/d/1NEYD9v2QT2AaN83Ez0i3LEWR0ErxXK0v/view?usp=sharing), [React Tutorial](https://drive.google.com/file/d/1YKvpPRBbaT6CpHQtNBWDPBW9DetpOI5J/view?usp=sharing), and [React Tutorial Pt.2](https://drive.google.com/file/d/1lnJQ7fSeBOJ1FvpNKcA6nk1F-Pitokq_/view?usp=sharing) recordings from Week 02. (We'll be going through the slides in class)
 
 Topics:
 
-- ...
+- [In-Class React Task]()
+- [URLs & HTTP]()
+- [fetch(...) & fetching in React]()
+- [Collaborative Assignment React Lab]()
+
+Assignments:
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class - [Submission Link](https://forms.gle/yD5EQNBSnRmgaQc56)
+- Meet w/ Mentor to establish and assign project deliverables
 
 
 ## (9/22) Week 4: ...
