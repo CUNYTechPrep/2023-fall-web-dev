@@ -47,7 +47,7 @@ Topics:
 Assignments:
 - Complete and submit the [Boostrap Lab](https://docs.google.com/presentation/d/1mGgCZWFnBYfagEy624TpUYbab_aT8dSz/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true) by Tuesday. [Submit Here](https://docs.google.com/forms/d/19jmGHjUgDQCRMfSwzd4Mrfji7ZJQ9NqHIaSP_zRsE5M/edit)
 - Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. (Once done, ping Instructor and TA.)
-- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class - [Submission Link](https://forms.gle/yD5EQNBSnRmgaQc56)
 
 Recordings:
 - [Intro To React](https://drive.google.com/file/d/1NEYD9v2QT2AaN83Ez0i3LEWR0ErxXK0v/view?usp=sharing)
