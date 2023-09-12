@@ -56,7 +56,7 @@ Recordings:
 
 *If you have any questions from the recording, hold them until next class. I will do the tutorial for the live session.*
 
-## (9/15) Week 3: ...
+## (9/15) Week 3: More React and HTTP + fetch()
 
 Prior To Week 03, do the following:
 - Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. 
