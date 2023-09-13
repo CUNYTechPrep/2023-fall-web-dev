@@ -370,7 +370,7 @@ In regular HTML, we can use the attribute `<div onclick="...">` to run some java
 
 - notice the camel casing of standard html attributes `className`, `onClick` in react
 - onClick receives a function (callback) that will run in response to the event
-- what happens if you change it to just `onClick={ alert('The button was pressed!) }`
+- what happens if you change it to just `onClick={ alert('The button was pressed!') }`
 - `onClick` works with other html tags, such as img, div, h1, etc.
 - `e` stands for event, it contains information about the user event, such as which mouse button was used to click.
 
