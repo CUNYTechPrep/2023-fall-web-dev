@@ -43,11 +43,6 @@ Assignments:
 
 ## (9/12) Week 3
 
-
-
-https://github.com/CUNYTechPrep/lab-react-toggle
-
-
 Topics:
 
 - More React
