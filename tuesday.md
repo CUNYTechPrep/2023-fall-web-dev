@@ -31,7 +31,7 @@ Assignments:
 
 [Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
 
-[Learn React 1 lab](materials/learn-react-1.md)
+
 
 Topics:
 
@@ -44,26 +44,37 @@ Assignments:
 ## (9/12) Week 3
 
 
+
+https://github.com/CUNYTechPrep/lab-react-toggle
+
+
+Topics:
+
+- More React
+
+Assignments:
+
+- [Learn React 1 lab: complete steps 8, 9, 10](materials/learn-react-1.md)
+    + nothing to submit
+- [Complete React Toggle Lab](https://github.com/CUNYTechPrep/lab-react-toggle)
+    + submit with a pull request
+    + you may work in your teams on this lab
+
+## (9/19) Week 4
+
 Topics:
 
 - Client-Server Communication
     + Parts of a URL
     + Understanding HTTP Request-Response
 - `fetch(...)` and Promises
-- More React
-
-
-## (9/19) Week 4
-
-Topics:
-
-- More `fetch()` and React
 
 ## (9/26) Week 5
 
 
 Topics:
 
+- More `fetch()` and React
 - Fullstack Review: Frontend vs Backend
 - About `npm`
 - Building a backend with Express.js
