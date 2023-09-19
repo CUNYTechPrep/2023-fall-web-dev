@@ -41,13 +41,11 @@ Prior To Week 02, do the following:
 Topics:
 - [Team Formation](https://docs.google.com/presentation/d/1ggRWXdB5HMUteMTTR3gkSJRdKjCm6HCt/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
 - [Intro To React](https://docs.google.com/presentation/d/1bY37kUd1t6q40GPzCeqX8lDPsHbDXtc6/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
-- [React Tutorial](https://docs.google.com/presentation/d/1Mozl6FiAcimzfRMZCveCztGEQzYRN-sJ/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
-- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393)
 
 Assignments:
 - Complete and submit the [Boostrap Lab](https://docs.google.com/presentation/d/1mGgCZWFnBYfagEy624TpUYbab_aT8dSz/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true) by Tuesday. [Submit Here](https://docs.google.com/forms/d/19jmGHjUgDQCRMfSwzd4Mrfji7ZJQ9NqHIaSP_zRsE5M/edit)
 - Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. (Once done, ping Instructor and TA.)
-- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class - [Submission Link](https://forms.gle/yD5EQNBSnRmgaQc56)
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class
 
 Recordings:
 - [Intro To React](https://drive.google.com/file/d/1NEYD9v2QT2AaN83Ez0i3LEWR0ErxXK0v/view?usp=sharing)
@@ -56,11 +54,27 @@ Recordings:
 
 *If you have any questions from the recording, hold them until next class. I will do the tutorial for the live session.*
 
-## (9/15) Week 3: More React and HTTP + fetch()
+## (9/15) Week 3: More React
 
-Prior To Week 03, do the following:
-- Complete [Project Proposal](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/team-project-proposal.md) and bookmark the git link in team's channel. 
-- If possible, watch [Intro To React](https://drive.google.com/file/d/1NEYD9v2QT2AaN83Ez0i3LEWR0ErxXK0v/view?usp=sharing), [React Tutorial](https://drive.google.com/file/d/1YKvpPRBbaT6CpHQtNBWDPBW9DetpOI5J/view?usp=sharing), and [React Tutorial Pt.2](https://drive.google.com/file/d/1lnJQ7fSeBOJ1FvpNKcA6nk1F-Pitokq_/view?usp=sharing) recordings from Week 02. (We'll be going through the slides in class)
+Topics:
+
+- [React Tutorial](https://docs.google.com/presentation/d/1Mozl6FiAcimzfRMZCveCztGEQzYRN-sJ/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393)
+
+Assignments:
+- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class - NO SUBMISSION NEEDED
+- Meet w/ Mentor to establish and assign project deliverables
+
+Solutions:
+(To view the solution, `View Page Source` or `Inspect` the page)
+- [Bootstrap Lab Solution](https://cunytechprep.github.io/lab-bootstrap-5-solution/)
+- [Bootstrap Lab Solution - Alternate](https://cunytechprep.github.io/lab-bootstrap-5-solution/alternating.html)
+
+
+## (9/22) Week 4: More React and HTTP + fetch()
+
+Prior To Week 04, do the following:
+- Finish [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393)
 
 Topics:
 
@@ -70,15 +84,7 @@ Topics:
 - [Collaborative Assignment React Lab]()
 
 Assignments:
-- [Lab: Learn React](https://gist.github.com/medgardo/45d976f31c86bdc9928908bf46ca5393) due by Week 04's class - [Submission Link](https://forms.gle/yD5EQNBSnRmgaQc56)
-- Meet w/ Mentor to establish and assign project deliverables
-
-
-## (9/22) Week 4: ...
-
-Topics:
-
-- ...
+- Complete Project Deliverables
 
 ## (9/29) Week 5: ...
 
