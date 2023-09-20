@@ -59,10 +59,14 @@ Assignments:
 
 Topics:
 
-- Client-Server Communication
+- [Client-Server Communication (slides)](https://docs.google.com/presentation/d/1hJgCCh3UiygFQ6q8_G7_KCn332rGuo6VPHlM49JM4Ao/edit#slide=id.p)
     + Parts of a URL
     + Understanding HTTP Request-Response
-- `fetch(...)` and Promises
+- [`fetch(...)` and Promises (slides)](https://docs.google.com/presentation/d/1ctGUH2sYpqDjo268t_nL0A3u1t6tzAqwk-mw5WIxwnM/edit#slide=id.p)
+
+- [Complete React Toggle Lab](https://github.com/CUNYTechPrep/lab-react-toggle)
+    + submit with a pull request
+    + you may work in your teams on this lab
 
 ## (9/26) Week 5
 
