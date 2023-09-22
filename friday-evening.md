@@ -78,13 +78,14 @@ Prior To Week 04, do the following:
 
 Topics:
 
-- [In-Class React Task]()
-- [URLs & HTTP]()
-- [fetch(...) & fetching in React]()
-- [Collaborative Assignment React Lab]()
+- [In-Class React Task](https://github.com/CUNYTechPrep/lab-react-toggle)
+- [URLs & HTTP](https://docs.google.com/presentation/d/1I35K6h8TgFFRBGKyMEhmHzDKtgcnUhlX9EhCTal5pKE/edit?usp=sharing)
+- [fetch(...) & fetching in React](https://docs.google.com/presentation/d/1hHMM91OriVQH8FydmqHchmiT8zFA-LkRCW0z7SKIsgM/edit?usp=sharing)
+- [Collaborative Assignment React Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 Assignments:
-- Complete Project Deliverables
+- Determine project deliverables for Week 05
+- Complete [Collaborative Assignment React Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 ## (9/29) Week 5: ...
 
