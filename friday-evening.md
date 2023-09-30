@@ -90,15 +90,22 @@ Prior To Week 05, do the following:
 Topics:
 
 - [Team Check-In]()
-- [Team Collaboration & Communication]()
-- [Working on a Team]()
+- [Team Collaboration & Communication](https://docs.google.com/presentation/d/1gLWXxtnOo3T6u1e3Axi1pXkUD58WeDzcvvG_C6hYnjY/edit?usp=sharing)
+- [Working on a Team](https://docs.google.com/presentation/d/1sXnVS_ks__xHLJrEeBRtSc0BHlegtpqgblRvIfJC24c/edit?usp=sharing)
 - [Project Work Time]()
 
-## (10/6) Week 6: ...
+Assignment:
+- (Optional) [Collaborative Assignment React Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
+
+## (10/6) Week 6: Front-end Development
 
 Topics:
 
-- ...
+- [Overview of Front-end Development]()
+- [Intro to APIs]()
+- [Using API in our Front-end]()
+- [UI/UX]()
+- [Bringing it together]()
 
 
 ## (10/13) NO CLASS
