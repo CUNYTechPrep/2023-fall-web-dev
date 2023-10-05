@@ -94,19 +94,14 @@ Topics:
 - [Working on a Team](https://docs.google.com/presentation/d/1sXnVS_ks__xHLJrEeBRtSc0BHlegtpqgblRvIfJC24c/edit?usp=sharing)
 - [Project Work Time]()
 
-Assignment:
-- (Optional) [Collaborative Assignment React Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 ## (10/6) Week 6: Front-end Development
 
 Topics:
 
-- [Overview of Front-end Development]()
-- [Intro to APIs]()
-- [Using API in our Front-end]()
-- [UI/UX]()
-- [Bringing it together]()
-
+- [Overview of Front-end Development](https://docs.google.com/presentation/d/1JC_lCx5li1hQpQDKS4tRnI05J-Fl4kk-1U5kbFDnKtw/edit?usp=sharing)
+- [More APIs](https://docs.google.com/presentation/d/1OUOyFZ_rCOUVWa0_gtx4913xYldxFdUq2fp-gilUxDE/edit?usp=sharing)
+- [Bringing It All Together Lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
 
 ## (10/13) NO CLASS
 
