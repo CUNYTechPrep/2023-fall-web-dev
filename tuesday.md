@@ -70,30 +70,43 @@ Topics:
 
 ## (9/26) Week 5
 
-
 Topics:
 
+- Review React Toggle Lab
 - More `fetch()` and React
-- Fullstack Review: Frontend vs Backend
-- About `npm`
-- Building a backend with Express.js
-    + Routing
-    + Route Parameters
-    + Query Parameters
-    + Body Parameters
-- RESTful Routing
+- [React Trivia Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
+
 
 ## (10/3) Week 6
 
 Topics:
 
-- SDLC (software development lifecycle)
-- Design Documents
+- [SDLC (software development lifecycle)](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit#slide=id.p)
+- [Design Documents](https://docs.google.com/document/d/15Cs2h6f83mXQWmCoSQ37N2fwiKui9Oli9Ph1WwXsDSY/edit#heading=h.7bv8fyipu40c)
+
+Assignment:
+
+- [Complete React Zip Search Lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
+    + Due: 10/17
 
 
 ## (10/10) NO CLASS
 
 ## (10/17) Week 7
+
+Topics:
+- [Fullstack Review: Frontend vs Backend (slides)](https://docs.google.com/presentation/d/1x6mtEjdU2JhhJuUaoP0LC4_uMtTUEpNDxD6NIabnkKM/edit#slide=id.p)
+- [About `npm` & Building a backend with Express.js (slides)](https://docs.google.com/presentation/d/1oWHbjoTU3BdrCpZ51I73D3YRLkManTQtkUheegribg4/edit#slide=id.p)
+    + Routing
+    + Route Parameters
+    + Query Parameters
+    + Body Parameters
+- RESTful Routing
+- [Tutorial: Express.js Hello World](https://expressjs.com/en/starter/hello-world.html)
+
+
+## (10/24) Week 8
+
 
 Topics:
 
@@ -102,27 +115,27 @@ Topics:
 - Project Starter setup and walkthrough
 
 
-## (10/24) Week 8
 
-
-Topics:
-
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
-- Using Sequelize.js
-- Testing (Jest)
 
 ## (10/31) Week 9
 
 Topics:
 
 - **_Project Presentations_**
-- Implementing Authentication
-- Sessions
-- Passport.js, Bcrypt
+
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
+- Using Sequelize.js
+- Testing (Jest)
+
+Assignment:
+
+- watch and implement auth videos
+    - Implementing Authentication
+    - Sessions
+    - Passport.js, Bcrypt
 
 ## (11/7) Week 10
-
 
 Topics:
 
