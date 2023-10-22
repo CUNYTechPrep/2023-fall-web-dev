@@ -105,11 +105,13 @@ Topics:
 
 ## (10/13) NO CLASS
 
-## (10/20) Week 7: ...
+## (10/20) Week 7: Back-end Development
 
 Topics:
 
-- ...
+- [Who, What, Where, When and Why of Back-end Development?](https://docs.google.com/presentation/d/1CB0amE2fyxkYgOcX3OEaq8tj7iBLsmcBD-8-hZLTbBU/edit?usp=sharing)
+- [Node & NPM](https://docs.google.com/presentation/d/1Ui6FEzuqfsC917brGmACd3H1GjyJful4Z-N4sF0SiKU/edit?usp=sharing)
+- [Express.Js](https://docs.google.com/presentation/d/1hbzazAp4Wtz8llxeRs3fDwXRbdDgdn32czmQWbqE1tQ/edit?usp=sharing)
 
 
 ## (10/27) Week 8: ...
