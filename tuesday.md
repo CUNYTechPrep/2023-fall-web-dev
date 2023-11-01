@@ -110,7 +110,7 @@ Topics:
 
 Topics:
 
-- [MVC (_Models-Views-Controllers_) Project Structure (slides 1-5)](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/mvc-data-modeling-2022.pdf)
+- [MVC (_Models-Views-Controllers_) Project Structure (slides 1-15)](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/mvc-data-modeling-2022.pdf)
 - Using MVC app structure
 - [Project Starter setup and walkthrough](https://github.com/CUNYTechPrep/project-starter/)
 
