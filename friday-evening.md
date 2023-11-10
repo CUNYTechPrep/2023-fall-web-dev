@@ -114,25 +114,26 @@ Topics:
 - [Express.Js](https://docs.google.com/presentation/d/1hbzazAp4Wtz8llxeRs3fDwXRbdDgdn32czmQWbqE1tQ/edit?usp=sharing)
 
 
-## (10/27) Week 8: ...
+## (10/27) Week 8: Design Pattern, Data Modeling, & Intro To Sequelize
+
+Topics:
+
+- [Data Data Database](https://drive.google.com/file/d/1CV3m2gDrvozZ3h10xGMaWnwpTEAX9iQ6/view?usp=sharing)
+- [Intro to Sequelize](https://github.com/CUNYTechPrep/learn-https://github.com/CUNYTechPrep/learn-sequelize)
+
+## (11/3) Week 9: Presentation Week
+
+Topics:
+
+- Students present what they did so far.
+
+## (11/10) Week 10: Design Pattern, Data Modeling, & Intro To Sequelize
 
 
 Topics:
 
-- ...
-
-## (11/3) Week 9: ...
-
-Topics:
-
-- ...
-
-## (11/10) Week 10: ...
-
-
-Topics:
-
-- ...
+- [Data Data Database](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
+- [Intro to Sequelize](https://github.com/CUNYTechPrep/learn-sequelize)
 
 ## (11/17) Week 11: ...
 
