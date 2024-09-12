@@ -46,7 +46,7 @@ Topics:
     + Understanding HTTP Request-Response
 - [`fetch(...)` and Promises](https://docs.google.com/presentation/d/1hHMM91OriVQH8FydmqHchmiT8zFA-LkRCW0z7SKIsgM/edit?usp=sharing)
 - [In-class Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
-- [Homework]([https://github.com/CUNYTechPrep/lab-react-trivia](https://github.com/CUNYTechPrep/lab-react-zip-search))
+- [Homework](https://github.com/CUNYTechPrep/lab-react-zip-search)
 
 
 ## (9/20) Week 4
