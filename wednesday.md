@@ -31,7 +31,9 @@ Assignments:
 
 Topics:
 
-- React Intro
+- [React Intro](https://docs.google.com/presentation/d/1bY37kUd1t6q40GPzCeqX8lDPsHbDXtc6/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [React Tutorial](https://docs.google.com/presentation/d/1Mozl6FiAcimzfRMZCveCztGEQzYRN-sJ/edit?usp=sharing&ouid=103158384177618401609&rtpof=true&sd=true)
+- [React Lab](https://github.com/CUNYTechPrep/2024-fall-web-dev/blob/main/materials/learn-react-1.md)
 
 
 ## (9/13) Week 3
@@ -39,11 +41,12 @@ Topics:
 
 Topics:
 
-- Client-Server Communication
+- [Client-Server Communication](https://docs.google.com/presentation/d/1I35K6h8TgFFRBGKyMEhmHzDKtgcnUhlX9EhCTal5pKE/edit?usp=sharing)
     + Parts of a URL
     + Understanding HTTP Request-Response
-- `fetch(...)` and Promises
-- More React
+- [`fetch(...)` and Promises](https://docs.google.com/presentation/d/1hHMM91OriVQH8FydmqHchmiT8zFA-LkRCW0z7SKIsgM/edit?usp=sharing)
+- [In-class Lab](https://github.com/CUNYTechPrep/lab-react-trivia)
+- [Homework]([https://github.com/CUNYTechPrep/lab-react-trivia](https://github.com/CUNYTechPrep/lab-react-zip-search))
 
 
 ## (9/20) Week 4
