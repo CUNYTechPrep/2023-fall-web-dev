@@ -53,28 +53,24 @@ Topics:
 
 Topics:
 
-- More `fetch()` and React
+- [Team Collaboration](https://docs.google.com/presentation/d/1gLWXxtnOo3T6u1e3Axi1pXkUD58WeDzcvvG_C6hYnjY/edit?usp=sharing)
+- [Working On A Team](https://docs.google.com/presentation/d/1sXnVS_ks__xHLJrEeBRtSc0BHlegtpqgblRvIfJC24c/edit?usp=sharing)
 
 ## (9/27) Week 5
 
 
 Topics:
 
-- Fullstack Review: Frontend vs Backend
-- About `npm`
-- Building a backend with Express.js
-    + Routing
-    + Route Parameters
-    + Query Parameters
-    + Body Parameters
-- RESTful Routing
+- [Overview of Front-end Development](https://docs.google.com/presentation/d/1JC_lCx5li1hQpQDKS4tRnI05J-Fl4kk-1U5kbFDnKtw/edit?usp=sharing)
+- [Intro to APIs](https://docs.google.com/presentation/d/1OUOyFZ_rCOUVWa0_gtx4913xYldxFdUq2fp-gilUxDE/edit?usp=sharing)
+
 
 ## (10/4) Week 6
 
 Topics:
 
-- SDLC (software development lifecycle)
-- Design Documents
+- [Using API in our Front-end - Demo](https://github.com/CUNYTechPrep/lab-react-trivia)
+- [Bringing it all together](https://github.com/CUNYTechPrep/lab-react-zip-search)
 
 
 ## (10/11) NO CLASS
@@ -83,20 +79,19 @@ Topics:
 
 Topics:
 
-- MVC (_Models-Views-Controllers_) Project Structure
-- Using MVC app structure
-- Project Starter setup and walkthrough
-
+- [Who, What, Where, When and Why of Back-end Development?](https://docs.google.com/presentation/d/1CB0amE2fyxkYgOcX3OEaq8tj7iBLsmcBD-8-hZLTbBU/edit?usp=sharing)
+- [Node & NPM](https://docs.google.com/presentation/d/1Ui6FEzuqfsC917brGmACd3H1GjyJful4Z-N4sF0SiKU/edit?usp=sharing)
+- [Express.Js](https://docs.google.com/presentation/d/1hbzazAp4Wtz8llxeRs3fDwXRbdDgdn32czmQWbqE1tQ/edit?usp=sharing)
+- [Express.js tutorial](https://expressjs.com/en/starter/generator.html)
 
 ## (10/25) Week 8
 
 
 Topics:
 
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
-- Using Sequelize.js
-- Testing (Jest)
+- [Team Presentations](https://docs.google.com/presentation/d/1YRuDpXy7di9GBWRPyocvkA1n9GxdCOscXAR66Vvli9g/edit?pli=1#slide=id.p)
+- [Data Data Database](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
+- [Intro to Sequelize](https://github.com/CUNYTechPrep/learn-sequelize)
 
 ## (11/1) Week 9
 
