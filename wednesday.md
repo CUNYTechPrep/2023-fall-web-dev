@@ -91,6 +91,7 @@ Topics:
 
 - [Team Presentations](https://docs.google.com/presentation/d/1YRuDpXy7di9GBWRPyocvkA1n9GxdCOscXAR66Vvli9g/edit?pli=1#slide=id.p)
 - [Data Data Database](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
+- [Setting up PostgreSQL locally](https://github.com/CUNYTechPrep/project-starter/blob/main/_docs/local-postgresql.md)
 - [Intro to Sequelize](https://github.com/CUNYTechPrep/learn-sequelize)
 
 ## (11/1) Week 9
